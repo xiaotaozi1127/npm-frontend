@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "i18next": "20.6.1",
-    "moment": "2.21.0",
+    "moment": "2.29.4",
     "react-i18next": "11.18.0"
   }
 }
